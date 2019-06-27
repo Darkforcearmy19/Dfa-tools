@@ -8,7 +8,7 @@ $ pkg install git
 
 $ pkg upgrade
 
-$ git clone https://github.com/Darkforcearmy19/Dfa-tools/dfa-guard.git
+$ git clone https://github.com/Darkforcearmy19/Dfa-tools.git
 
 $ cd dfa-guard
 
