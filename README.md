@@ -12,6 +12,6 @@ $ pkg upgrade
 
 $ git clone https://github.com/Darkforcearmy19/Dfa-tools.git
 
-$ cd dfa-guard
+$ cd DfaGuard
 
-$ php dfa-guard.php
+$ php DfaGuard.php
